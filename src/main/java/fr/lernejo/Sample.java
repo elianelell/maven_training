@@ -26,4 +26,5 @@ public class Sample {
             this.func = func;
         }
     }
+
 }
